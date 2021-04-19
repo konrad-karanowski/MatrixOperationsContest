@@ -1,2 +1,2 @@
 # MatrixOperationsContest
-Competition for the fastest matrix operations
+Competition for the fastest matrix operations.
